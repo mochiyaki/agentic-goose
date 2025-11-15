@@ -1,7 +1,7 @@
 # Agentic Goose
 Six Thinking Hats Multi-Agent for problem-solving, brainstorming, and ... almost everything!
 
-![goose](./gose.gif)
+![goose](./goose.gif)
 
 ## backend
 ```
@@ -12,3 +12,7 @@ python server.py --model xxx.gguf
 ```
 python launch.py
 ```
+
+## reference
+- six thinking hats (Edward De Bono)
+- brainstorming (Osborn)
