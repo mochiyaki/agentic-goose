@@ -1,7 +1,7 @@
 # Agentic Goose
 Six Thinking Hats Multi-Agent for problem-solving, brainstorming, and ... almost everything!
 
-![goose](./gose.png)
+![goose](./gose.gif)
 
 ## backend
 ```
